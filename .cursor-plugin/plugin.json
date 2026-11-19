@@ -1,0 +1,13 @@
+{
+  "name": "apricot",
+  "version": "0.1.0",
+  "description": "Manage Apricot projects and SysML2 models directly from your coding agent.",
+  "author": {
+    "name": "Metadev",
+    "email": "support@apricot.tools"
+  },
+  "homepage": "https://apricot.tools",
+  "repository": "https://github.com/metadevpro/apricot-mcp",
+  "keywords": ["mcp", "sysml2", "systems-modeling", "apricot"],
+  "logo": "assets/apricot-logo.svg"
+}
