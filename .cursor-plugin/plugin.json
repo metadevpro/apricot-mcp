@@ -1,7 +1,7 @@
 {
   "name": "apricot",
-  "version": "0.1.0",
-  "description": "Manage Apricot projects and SysML2 models directly from your coding agent.",
+  "version": "0.3.1",
+  "description": "Manage SysML2 projects; check, evaluate, verify, query, document and diagram models.",
   "author": {
     "name": "Metadev",
     "email": "support@apricot.tools"
