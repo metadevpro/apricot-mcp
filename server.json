@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "tools.apricot/apricot",
+  "description": "Manage SysML2 projects; check, evaluate, verify, query, document and diagram models.",
+  "title": "Apricot",
+  "repository": {
+    "url": "https://github.com/metadevpro/apricot-mcp",
+    "source": "github"
+  },
+  "version": "0.3.1",
+  "websiteUrl": "https://apricot.tools",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.apricot.tools/"
+    }
+  ]
+}
